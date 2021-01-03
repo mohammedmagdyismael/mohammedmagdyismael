@@ -36,7 +36,17 @@ My name is Mohammed Magdy and I am a frontend developer from Cairo, Egypt. I do 
 
 currently i'm a frontend developing engineer (Vezeeta.com)
 
-📫 How to reach me: ...
+## 📫 How to reach me: ...
+
+<p>
+  <a href="https://www.linkedin.com/in/mohammedmagdyismael/"> 
+    <img alt='linkedin' src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/m.magdy.isl"> 
+    <img alt='facebook' src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</p>
+
 
 <!--
 **mohammedmagdyismael/mohammedmagdyismael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
