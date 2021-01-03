@@ -30,7 +30,9 @@ My name is Mohammed Magdy and I am a frontend developer from Cairo, Egypt. I do 
   <img alt='mongo' src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mohammedmagdyismael)
+![mohammedmagdyismael's github stats](https://github-readme-stats.vercel.app/api?username=mohammedmagdyismael)
+<br/>
+![mohammedmagdyismael's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mohammedmagdyismael)
 
 ## 🔭 I’m currently working on ...
 
