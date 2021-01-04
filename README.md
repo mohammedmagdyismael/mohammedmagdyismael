@@ -34,8 +34,8 @@ My name is Mohammed Magdy and I am a frontend developer from Cairo, Egypt. I do 
 <br/>
 
 
-<img src="https://wakatime.com/share/@mohammedmagdyismael/23431301-b67f-4355-a718-22ab3d97f6a3.svg" style="height:100px;width:100px;"/>
-<img src="https://wakatime.com/share/@mohammedmagdyismael/3807bb1b-2746-40c9-876b-5da8d102c43d.svg" style="height:100px;width:100px;"/>
+<img src="https://wakatime.com/share/@mohammedmagdyismael/23431301-b67f-4355-a718-22ab3d97f6a3.svg" style="max-width: 50% !important;"/>
+<img src="https://wakatime.com/share/@mohammedmagdyismael/3807bb1b-2746-40c9-876b-5da8d102c43d.svg" style="max-width: 50% !important;"/>
 
 ## 🔭 I’m currently working on ...
 
