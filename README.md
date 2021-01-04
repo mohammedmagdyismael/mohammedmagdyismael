@@ -32,7 +32,10 @@ My name is Mohammed Magdy and I am a frontend developer from Cairo, Egypt. I do 
 
 ![mohammedmagdyismael's github stats](https://github-readme-stats.vercel.app/api?username=mohammedmagdyismael)
 <br/>
-![mohammedmagdyismael's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mohammedmagdyismael)
+
+<figure><embed src="https://wakatime.com/share/@mohammedmagdyismael/23431301-b67f-4355-a718-22ab3d97f6a3.svg"></embed></figure>
+
+<figure><embed src="https://wakatime.com/share/@mohammedmagdyismael/23431301-b67f-4355-a718-22ab3d97f6a3.svg"></embed></figure>
 
 ## 🔭 I’m currently working on ...
 
