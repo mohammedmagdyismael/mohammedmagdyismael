@@ -87,6 +87,12 @@ A Simple Carousel Photo Gallery using Reactjs
 <p>Demo: https://mohammedmagdyismael.github.io/CarousalGallery/ </p>
 <p>Repo: https://github.com/mohammedmagdyismael/CarousalGallery </p>
 
+### 💈 Simple Carousel Cards
+A Simple Carousel Cards using Reactjs
+
+<p>Demo: https://mohammedmagdyismael.github.io/CarouselCards/ </p>
+<p>Repo: https://github.com/mohammedmagdyismael/CarouselCards </p>
+
 
 ## 🔭 I’m currently working on ...
 
