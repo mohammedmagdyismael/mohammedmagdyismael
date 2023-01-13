@@ -60,7 +60,9 @@ Google Analytics, Bugsnag, MongoDB/Atlas, MySQL, swagger
 A simple Reactjs movies search engine app using Tracktv API
 
 <p>Demo: https://mohammedmagdyismael.github.io/traktv-search-engine/ </p>
-<p>Repo: https://github.com/mohammedmagdyismael/traktv-search-engine </p>
+<p>Repo: (ReactJs) https://github.com/mohammedmagdyismael/traktv-search-engine </p>
+<p>Repo: (React Native) https://github.com/mohammedmagdyismael/-traktv-search-engine-react-native </p>
+
 
 ## 🔭 I’m currently working on ...
 
