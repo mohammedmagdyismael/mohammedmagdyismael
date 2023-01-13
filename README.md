@@ -50,12 +50,9 @@ using ExpressJs
 <p>Repo: https://github.com/mohammedmagdyismael/wiki-crawler </p>
 
 ### 💈 Ready Express App
-A ready kick starter expressjs app with ready configs and implementations for
-Google Analytics
-Bugsnag
-MongoDB/Atlas
-MySQL
-swagger
+A ready kick starter expressjs app with ready configs and implementations for:
+
+Google Analytics, Bugsnag, MongoDB/Atlas, MySQL, swagger
 
 <p>Repo: https://github.com/mohammedmagdyismael/ready-express-app </p>
 
