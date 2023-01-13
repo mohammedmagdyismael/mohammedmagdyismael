@@ -81,6 +81,12 @@ Compose HTML form and print it in browser using Reactjs
 <p>Demo: https://mohammedmagdyismael.github.io/BrowserNativePrint/ </p>
 <p>Repo: https://github.com/mohammedmagdyismael/BrowserNativePrint </p>
 
+### 💈 Simple Carousel Photo Gallery
+A Simple Carousel Photo Gallery using Reactjs
+
+<p>Demo: https://mohammedmagdyismael.github.io/CarousalGallery/ </p>
+<p>Repo: https://github.com/mohammedmagdyismael/CarousalGallery </p>
+
 
 ## 🔭 I’m currently working on ...
 
