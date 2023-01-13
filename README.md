@@ -43,6 +43,12 @@ using React / Redux
 <p>Demo: https://mohammedmagdyismael.github.io/Scheduler </p>
 <p>Repo: https://github.com/mohammedmagdyismael/Scheduler </p>
 
+### 💈 withTranslation HOC
+An HOC React implementation for App localization
+using React / Redux
+
+<p>Repo: https://github.com/mohammedmagdyismael/withTranslation </p>
+
 ### 💈 Wiki Crawler
 An API endpoint crawl Wikipedia pages to make distinct words bag
 using ExpressJs
