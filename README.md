@@ -75,6 +75,12 @@ A DatePicker component using Reactjs
 <p>Demo: https://mohammedmagdyismael.github.io/DatePicker/ </p>
 <p>Repo: https://github.com/mohammedmagdyismael/DatePicker </p>
 
+### 💈 Print HTML form
+Compose HTML form and print it in browser using Reactjs
+
+<p>Demo: https://mohammedmagdyismael.github.io/BrowserNativePrint/ </p>
+<p>Repo: https://github.com/mohammedmagdyismael/BrowserNativePrint </p>
+
 
 ## 🔭 I’m currently working on ...
 
