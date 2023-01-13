@@ -34,6 +34,21 @@
 </figure>
 
 
+## 👨‍💻 Portfolio ...
+
+### 💈 Scheduler
+A Responsive Calendar component (Day/Week) view
+using React / Redux
+
+<p>Demo: https://mohammedmagdyismael.github.io/Scheduler </p>
+<p>Repo: https://github.com/mohammedmagdyismael/Scheduler </p>
+
+### 💈 Wiki Crawler
+An API endpoint crawl Wikipedia pages to make distinct words bag
+using ExpressJs
+
+<p>Repo: https://github.com/mohammedmagdyismael/wiki-crawler </p>
+
 ## 🔭 I’m currently working on ...
 
 Currently i'm a Frontend Engineer @Vezeeta.com
