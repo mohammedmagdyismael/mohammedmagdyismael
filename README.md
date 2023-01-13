@@ -29,12 +29,10 @@
   <img alt='mongo' src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-![mohammedmagdyismael's github stats](https://github-readme-stats.vercel.app/api?username=mohammedmagdyismael)
-<br/>
-
 <figure style="width: 50%">
-  <img style="width: 100%; height: 450px" src="https://wakatime.com/share/@mohammedmagdyismael/890f4c6f-b895-49fc-8736-67a46a0c1067.svg"/>
+  <img style="width: 100%; height: 450px" src="https://wakatime.com/share/@mohammedmagdyismael/e0814513-dca1-47c5-8298-388c5d5df209.svg"/>
 </figure>
+
 
 ## 🔭 I’m currently working on ...
 
