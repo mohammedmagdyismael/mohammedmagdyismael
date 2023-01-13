@@ -93,6 +93,10 @@ A Simple Carousel Cards using Reactjs
 <p>Demo: https://mohammedmagdyismael.github.io/CarouselCards/ </p>
 <p>Repo: https://github.com/mohammedmagdyismael/CarouselCards </p>
 
+### 💈 Arabic Letters Segmentation
+
+<p>Repo: https://github.com/mohammedmagdyismael/AITechs/blob/master/28.%20Arabic%20Letters%20Segmentation.ipynb </p>
+
 
 ## 🔭 I’m currently working on ...
 
