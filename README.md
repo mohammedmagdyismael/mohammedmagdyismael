@@ -47,6 +47,10 @@ currently i'm a frontend developing engineer (Vezeeta.com)
   <a href="https://www.facebook.com/m.magdy.isl"> 
     <img alt='facebook' src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
+  <a href="https://medium.com/@mohammedmagdyismael" title="medium" target = "_blank">
+    <img alt='medium' src = "https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+
 </p>
 
 ## 📑 Also you can check my resume: ... <a href="https://github.com/mohammedmagdyismael/mohammedmagdyismael/blob/main/Resume.pdf"> ☞ Here</a>
