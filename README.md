@@ -36,7 +36,7 @@
 
 ## 🔭 I’m currently working on ...
 
-currently i'm a frontend developing engineer (Vezeeta.com)
+Currently i'm a Frontend Engineer @Vezeeta.com
 
 ## 📫 Good to see you here: ...
 
