@@ -1,7 +1,6 @@
-### Hi there and welcome to my GitHub page 👋
+### Hi there, and welcome to my GitHub page 👋
 
-My name is Mohammed Magdy and I am a frontend developer from Cairo, Egypt. I do a lot of things, and some of them you may even find interesting. 🤞
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+👋;It+is+Mohammed+Magdy+😊;Frontend+Engineer+💻;From+Cairo,+Egypt+🗺️)](https://git.io/typing-svg)
 
 <p>
   <img alt='react' src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
