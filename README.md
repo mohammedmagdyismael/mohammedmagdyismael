@@ -49,6 +49,7 @@ currently i'm a frontend developing engineer (Vezeeta.com)
   </a>
 </p>
 
+## 📑 Also you can check my resume: ... <a href="https://github.com/mohammedmagdyismael/mohammedmagdyismael/blob/main/Resume.pdf"> ☞ Here</a>
 
 <!--
 **mohammedmagdyismael/mohammedmagdyismael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
