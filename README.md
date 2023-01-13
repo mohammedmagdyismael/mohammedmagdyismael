@@ -32,10 +32,9 @@
 ![mohammedmagdyismael's github stats](https://github-readme-stats.vercel.app/api?username=mohammedmagdyismael)
 <br/>
 
-<div style="display: flex">
-<img src="https://wakatime.com/share/@mohammedmagdyismael/23431301-b67f-4355-a718-22ab3d97f6a3.svg" style="max-width: 50px !important;"/>
-<img src="https://wakatime.com/share/@mohammedmagdyismael/3807bb1b-2746-40c9-876b-5da8d102c43d.svg" style="max-width: 50px !important;"/>
-</div>
+<figure style="width: 50%">
+  <img style="width: 100%; height: 450px" src="https://wakatime.com/share/@mohammedmagdyismael/890f4c6f-b895-49fc-8736-67a46a0c1067.svg"/>
+</figure>
 
 ## 🔭 I’m currently working on ...
 
