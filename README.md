@@ -31,9 +31,8 @@
 
 # My Statistics In Year
 ### Used OS
-<figure><embed src="https://wakatime.com/share/@mohammedmagdyismael/996b11a5-5960-4e46-b908-135e0cf70e13.svg"></embed></figure>
 <figure style="width: 50%">
-  <img style="width: 100%; height: 450px" src="https://wakatime.com/share/@mohammedmagdyismael/996b11a5-5960-4e46-b908-135e0cf70e13.svg"/>
+  <img style="width: 100%; height: 450px" src="https://wakatime.com/share/@mohammedmagdyismael/8fbf08dc-5ec5-4c4b-9ab1-50ec6b42b4cb.svg"/>
 </figure>
 
 <figure style="width: 50%">
