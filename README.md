@@ -29,6 +29,10 @@
   <img alt='mongo' src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
+# My Statistics In Year
+### Used OS
+<figure><embed src="https://wakatime.com/share/@mohammedmagdyismael/996b11a5-5960-4e46-b908-135e0cf70e13.svg"></embed></figure>
+
 <figure style="width: 50%">
   <img style="width: 100%; height: 450px" src="https://wakatime.com/share/@mohammedmagdyismael/e0814513-dca1-47c5-8298-388c5d5df209.svg"/>
 </figure>
