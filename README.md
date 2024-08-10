@@ -30,14 +30,17 @@
 </p>
 
 # My Statistics In Year
-### Used OS
+### Used Languages
 <figure style="width: 50%">
-  <img style="width: 100%; height: 450px" src="https://wakatime.com/share/@mohammedmagdyismael/8fbf08dc-5ec5-4c4b-9ab1-50ec6b42b4cb.svg"/>
+  <img style="width: 100%; height: 450px" src="https://wakatime.com/share/@mohammedmagdyismael/9dc3fdde-beca-4bb2-9aa2-ea3c0cb32f7b.svg"/>
 </figure>
 
+### Used OS
 <figure style="width: 50%">
-  <img style="width: 100%; height: 450px" src="https://wakatime.com/share/@mohammedmagdyismael/e0814513-dca1-47c5-8298-388c5d5df209.svg"/>
+  <img style="width: 100%; height: 450px" src="https://wakatime.com/share/@mohammedmagdyismael/e9836ab7-411f-46db-bc57-0c221e0a8a1d.svg"/>
 </figure>
+
+
 
 
 ## 👨‍💻 Portfolio ...
