@@ -32,7 +32,7 @@
 # My Statistics In Year
 ### Used Languages
 <figure style="width: 50%">
-  <img style="width: 100%; height: 450px" src="https://wakatime.com/share/@mohammedmagdyismael/9dc3fdde-beca-4bb2-9aa2-ea3c0cb32f7b.svg"/>
+  <img style="width: 100%; height: 450px" src="https://wakatime.com/share/@mohammedmagdyismael/dc01c26c-2ad4-4f8d-b3d2-c43168b798bf.svg"/>
 </figure>
 
 ### Used OS
