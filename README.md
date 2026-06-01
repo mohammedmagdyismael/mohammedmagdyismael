@@ -1,10 +1,12 @@
 <div align="center">
 
-<!-- Dynamic Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mohammed%20Magdy&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Staff%20Frontend%20Engineer%20%7C%20AI%20%26%20Automation%20Builder&descAlignY=55&descSize=20"/>
+<!-- Name header via typing SVG (demolab – always works) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=46&duration=4000&pause=600&color=58A6FF&center=true&vCenter=true&repeat=false&width=820&height=80&lines=Mohammed+Magdy+Ismael" alt="Mohammed Magdy Ismael"/>
 
-<!-- Animated Typing -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Staff+Frontend+Engineer+%F0%9F%9A%80;React+%7C+Next.js+%7C+TypeScript+%7C+AI+%F0%9F%A4%96;8%2B+Years+Shipping+at+Scale+%E2%9A%A1;LLMs+%7C+N8N+%7C+ChromaDB+%7C+OpenAI+%F0%9F%A7%A0;Open+to+Opportunities+in+Europe+%F0%9F%87%AA%F0%9F%87%BA)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&color=A0AEC0&center=true&vCenter=true&repeat=false&width=820&height=40&lines=Staff+Frontend+Engineer+%E2%80%A2+AI+%26+Automation+Builder" alt="Staff Frontend Engineer"/>
+
+<!-- Animated role cycling -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=React+%7C+Next.js+%7C+TypeScript+%7C+AI+%F0%9F%A4%96;8%2B+Years+Shipping+at+Scale+%E2%9A%A1;LLMs+%7C+N8N+%7C+ChromaDB+%7C+OpenAI+%F0%9F%A7%A0;Open+to+Opportunities+in+Europe+%F0%9F%87%AA%F0%9F%87%BA)](https://git.io/typing-svg)
 
 <!-- Badges row -->
 <p>
@@ -128,24 +130,16 @@ const mohammed: StaffEngineer = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohammedmagdyismael&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedmagdyismael&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<!-- Key stats badges (shields.io – always works) -->
+<p>
+  <img src="https://img.shields.io/badge/Experience-8%2B%20Years-0e75b6?style=for-the-badge&logo=clockify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Total%20Contributions-262%2B-brightgreen?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Longest%20Streak-4%20Days-orange?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Focus-React%20%7C%20Next.js%20%7C%20TypeScript-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+</p>
 
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=mohammedmagdyismael&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mohammedmagdyismael&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- Streak card (demolab – works) -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=mohammedmagdyismael&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -222,14 +216,10 @@ const mohammed: StaffEngineer = {
 
 ---
 
-<!-- Snake contribution animation -->
+<!-- Footer: contact CTA -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohammedmagdyismael/mohammedmagdyismael/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohammedmagdyismael/mohammedmagdyismael/output/github-contribution-grid-snake.svg"/>
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mohammedmagdyismael/mohammedmagdyismael/output/github-contribution-grid-snake.svg"/>
-  </picture>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=2000&color=58A6FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%F0%9F%91%8B+Let's+build+something+great+together." alt="Thanks for visiting"/>
 </div>
 
-<!-- Footer wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+---
+<div align="center"><sub>⚡ Built with care · Open to hybrid/on-site opportunities in Europe 🇪🇺</sub></div>
